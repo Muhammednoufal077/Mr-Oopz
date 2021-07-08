@@ -5,7 +5,7 @@
 <a href="#"><img title="Mr-Oopz" src="https://img.shields.io/badge/Mr-Oopz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Muhammednoufal077"><img title="Author" src="https://img.shields.io/badge/Author-MuhammedNoufal?color=yellow&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Muhammednoufal077"><img title="Author" src="https://img.shields.io/badge/Author-MuhammedNoufal?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
